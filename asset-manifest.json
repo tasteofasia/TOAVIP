@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gitPageVIP/static/css/main.49c6772f.chunk.css",
+    "main.js": "/gitPageVIP/static/js/main.e2ec45d1.chunk.js",
+    "main.js.map": "/gitPageVIP/static/js/main.e2ec45d1.chunk.js.map",
+    "runtime-main.js": "/gitPageVIP/static/js/runtime-main.adbb00ad.js",
+    "runtime-main.js.map": "/gitPageVIP/static/js/runtime-main.adbb00ad.js.map",
+    "static/css/2.b804cbd6.chunk.css": "/gitPageVIP/static/css/2.b804cbd6.chunk.css",
+    "static/js/2.1a856d92.chunk.js": "/gitPageVIP/static/js/2.1a856d92.chunk.js",
+    "static/js/2.1a856d92.chunk.js.map": "/gitPageVIP/static/js/2.1a856d92.chunk.js.map",
+    "static/js/3.d3acfe4a.chunk.js": "/gitPageVIP/static/js/3.d3acfe4a.chunk.js",
+    "static/js/3.d3acfe4a.chunk.js.map": "/gitPageVIP/static/js/3.d3acfe4a.chunk.js.map",
+    "index.html": "/gitPageVIP/index.html",
+    "static/css/2.b804cbd6.chunk.css.map": "/gitPageVIP/static/css/2.b804cbd6.chunk.css.map",
+    "static/css/main.49c6772f.chunk.css.map": "/gitPageVIP/static/css/main.49c6772f.chunk.css.map",
+    "static/js/2.1a856d92.chunk.js.LICENSE.txt": "/gitPageVIP/static/js/2.1a856d92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adbb00ad.js",
+    "static/css/2.b804cbd6.chunk.css",
+    "static/js/2.1a856d92.chunk.js",
+    "static/css/main.49c6772f.chunk.css",
+    "static/js/main.e2ec45d1.chunk.js"
+  ]
+}
